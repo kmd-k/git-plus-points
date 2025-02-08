@@ -24,7 +24,7 @@ double y[4] = {4.21, 7.83, 5.75, 6.96};
 char z[5] = {'B', 'O', 'N', 'U', 'S'};
 ```
 
-Like any treasure hunt, you need a map! To help you on your journey, fill-up this ***memory map*** given the declaration above. Below is the format:
+Like any treasure hunt, you need a map! To help you ***git*** **The Hiddincentive**, fill-up this ***memory map*** given the declarations above. You can use this format:
 
 |        | Value | Address |
 |:------:|:-----:|:-------:|
