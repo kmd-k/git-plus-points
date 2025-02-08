@@ -1,9 +1,1 @@
-- If you are from S19A, what is the address of last element of z?
-
-- If you are from S19B, what is the address of second to last element of y?
-
-- If you are from S27A, what is the address of last element of x?
-
-- If you are from S27B, what is the address of second element of y?
-
-To proceed, checkout branch-<answer>
+If you've come across this clue, start from the very beginning and give it another try.
