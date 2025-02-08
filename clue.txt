@@ -6,4 +6,4 @@
 
 - If you are from S27B, what is the address of second element of y?
 
-To proceed, checkout `branch-<answer>`
+To proceed, checkout branch-<answer>
