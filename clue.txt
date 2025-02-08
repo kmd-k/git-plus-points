@@ -1,9 +1,5 @@
-- If you are from S19A, what is the address of last element of z?
+What is z+2?
 
-- If you are from S19B, what is the address of second to last element of y?
+If the result is an integer or double value, take only the leftmost value then prefix it with 0 as the answer. For example, if the expression evaluates to 8.11, then the answer is 08. If the expression evaluates to 94, then the answer is 09.
 
-- If you are from S27A, what is the address of last element of x?
-
-- If you are from S27B, what is the address of second element of y?
-
-To proceed, checkout `branch-<answer>`
+To proceed, checkout branch-<answer>
