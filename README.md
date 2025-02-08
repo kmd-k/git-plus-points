@@ -12,11 +12,11 @@ Good luck, and may your ***commits*** be ever in your favor!
 
 ## General Instructions
 
-- To find **The Hiddincentive**, follow the instructions indicated in each branch you ***checkout***
-- Take note of each git command you use, starting with `git clone <rest of the command>`
+- To find **The Hiddincentive**, follow the instructions indicated in `clue.txt` for each branch you ***checkout***
+- Take note of each git command you use after `git clone <rest of the command>`
 - All must start here at the `main` branch
 
-## Clue
+## Map
 
 ```c
 int x[4] = {11, 32, 29, 86};
@@ -24,7 +24,7 @@ double y[4] = {4.21, 7.83, 5.75, 6.96};
 char z[5] = {'B', 'O', 'N', 'U', 'S'};
 ```
 
-To help you on your journey, fill-up the memory map given the declaration above. Below is the format:
+Like any treasure hunt, you need a map! To help you on your journey, fill-up this ***memory map*** given the declaration above. Below is the format:
 
 |        | Value | Address |
 |:------:|:-----:|:-------:|
