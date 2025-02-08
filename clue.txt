@@ -1,9 +1,5 @@
-- If you are from S19A, what is the address of last element of z?
+If your last name starts with a vowel, what is the address containing the value 'N'?
 
-- If you are from S19B, what is the address of second to last element of y?
+Otherwise, what is the address containing the value 86?
 
-- If you are from S27A, what is the address of last element of x?
-
-- If you are from S27B, what is the address of second element of y?
-
-To proceed, checkout `branch-<answer>`
+To proceed, checkout branch-<answer>
