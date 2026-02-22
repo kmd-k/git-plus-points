@@ -35,26 +35,26 @@ Like any treasure hunt, you need a map! To help you ***git*** **The Hiddincentiv
 | `z[0]` | ? | ? |
 | ...    | ? | ? |
 
-If you are from **`S19A`**, assume that
+If you are from **`S12A`**, assume that
 
 - the first element of `x` is assigned to memory location `12ab`
 - the first element of `y` is assigned to memory location `34cd`
 - the first element of `z` is assigned to memory location `56ef`
 
-If you are from **`S19B`**, assume that
+If you are from **`S13A`**, assume that
 
 - the first element of `x` is assigned to memory location `34cd`
 - the first element of `y` is assigned to memory location `56ef`
 - the first element of `z` is assigned to memory location `12ab`
 
-If you are from **`S27A`**, assume that
+If you are from **`S22A`**, assume that
 
 - the first element of `x` is assigned to memory location `56ef`
 - the first element of `y` is assigned to memory location `12ab`
 - the first element of `z` is assigned to memory location `34cd`
 
-If you are from **`S27B`**, assume that
+(IGNORE) ~~If you are from **`??`**, assume that~~
 
-- the first element of `x` is assigned to memory location `56ef`
-- the first element of `y` is assigned to memory location `34cd`
-- the first element of `z` is assigned to memory location `12ab`
+- ~~the first element of `x` is assigned to memory location `56ef`~~
+- ~~the first element of `y` is assigned to memory location `34cd`~~
+- ~~the first element of `z` is assigned to memory location `12ab`~~
