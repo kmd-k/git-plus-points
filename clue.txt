@@ -1,0 +1,8 @@
+What does y+3 evaluate to?
+
+To wrap-up
+1. Branch out from here with the following format as the branch name: <section>-<lastname>-<firstname initial> (example: s10-kalaw-k)
+2. Create a text file with the same file name as the branch name (example: s10-kalaw-k.txt)
+3. Save the answer to the text file
+4. Commit and push
+5. You will be awarded The Hiddincentive if you solved all the clues correctly
