@@ -24,7 +24,7 @@ double y[4] = {4.21, 7.83, 5.75, 6.96};
 char z[5] = {'B', 'O', 'N', 'U', 'S'};
 ```
 
-Like any treasure hunt, you need a map! To help you on your journey, fill-up this ***memory map*** given the declaration above. Below is the format:
+Like any treasure hunt, you need a map! To help you ***git*** **The Hiddincentive**, fill-up this ***memory map*** given the declarations above. You can use this format:
 
 |        | Value | Address |
 |:------:|:-----:|:-------:|
@@ -35,26 +35,26 @@ Like any treasure hunt, you need a map! To help you on your journey, fill-up thi
 | `z[0]` | ? | ? |
 | ...    | ? | ? |
 
-If you are from **`S19A`**, assume that
+If you are from **`S12A`**, assume that
 
 - the first element of `x` is assigned to memory location `12ab`
 - the first element of `y` is assigned to memory location `34cd`
 - the first element of `z` is assigned to memory location `56ef`
 
-If you are from **`S19B`**, assume that
+If you are from **`S13A`**, assume that
 
 - the first element of `x` is assigned to memory location `34cd`
 - the first element of `y` is assigned to memory location `56ef`
 - the first element of `z` is assigned to memory location `12ab`
 
-If you are from **`S27A`**, assume that
+If you are from **`S22A`**, assume that
 
 - the first element of `x` is assigned to memory location `56ef`
 - the first element of `y` is assigned to memory location `12ab`
 - the first element of `z` is assigned to memory location `34cd`
 
-If you are from **`S27B`**, assume that
+(IGNORE) ~~If you are from **`??`**, assume that~~
 
-- the first element of `x` is assigned to memory location `56ef`
-- the first element of `y` is assigned to memory location `34cd`
-- the first element of `z` is assigned to memory location `12ab`
+- ~~the first element of `x` is assigned to memory location `56ef`~~
+- ~~the first element of `y` is assigned to memory location `34cd`~~
+- ~~the first element of `z` is assigned to memory location `12ab`~~
