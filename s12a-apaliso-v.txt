@@ -1,0 +1,24 @@
+What does z+1 evaluate to?
+Answer:56f0
+Map:
+|      |Value|Address|
+| x[0] |  11 |  12ab |
+| x[1] |  32 |  12af |
+| x[2] |  29 |  12b3 |
+| x[3] |  86 |  12b7 |
+|      |     |       |
+| y[0] | 4.21|  34cd |
+| y[1] | 7.83|  34d5 |
+| y[2] | 5.75|  34dd |
+| y[3] | 6.96|  34e5 |
+|      |     |       |
+| z[0] | 'B' |  56ef |
+| z[1] | 'O' |  56f0 |
+| z[2] | 'N' |  56f1 |
+| z[3] | 'U' |  56f2 |
+| z[4] | 'S' |  56f3 |
+
+git branch -r
+git checkout branch-12ab (Vowel, Apaliso)
+git checkout branch-56ef [(int) x+3 = 12ab + 12 = 12b7]
+git checkout branch-12b7 [(char) z+1 = 56ef + 1 = 56f0]
